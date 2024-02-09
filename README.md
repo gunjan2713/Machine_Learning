@@ -1,5 +1,3 @@
-Try it Out here- http://127.0.0.1:5000
-
 Description:
 
 For my major project in machine learning, I tackled the challenge of image classification using Convolutional Neural Networks (CNNs). The essence of this project was to train a computer model to accurately recognize and classify images into predefined categories. CNNs, a powerhouse in the deep learning domain, are especially suited for tasks involving images due to their ability to capture patterns such as edges, textures, and other visual cues.
